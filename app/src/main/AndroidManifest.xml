@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest package="com.example.android.newsprojectstage1" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+    -<application android:theme="@style/AppTheme" android:supportsRtl="true" android:roundIcon="@mipmap/ic_launcher_round" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:allowBackup="true">
+
+
+    -<activity android:name="com.example.android.newsprojectstage1.NewsActivity">
+
+
+    -<intent-filter>
+
+    <action android:name="android.intent.action.MAIN"/>
+
+    <category android:name="android.intent.category.LAUNCHER"/>
+
+</intent-filter>
+
+</activity>
+
+
+    <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.example.android.newsprojectstage1.NewsActivity"/>
+
+    <activity android:name=".SettingActivity"
+        android:label="@string/settings_title"
+        android:screenOrientation="portrait">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.android.newsprojectstage1.NewsActivity"/>
+    </activity>
+</application>
+
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="BigText_size">16sp</dimen>
+    <dimen name="SmallText_size">12sp</dimen>
+    <dimen name="LayoutHieght">100dp</dimen>
+    <dimen name="textHieght">50dp</dimen>
+    <dimen name="mainPadding">16dp</dimen>
+    <dimen name="margin">10dp</dimen>
+</resources>

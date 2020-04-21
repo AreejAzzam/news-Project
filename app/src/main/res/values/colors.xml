@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Sport">#4A7BA7</color>
+    <color name="Business">#04B4B3</color>
+    <color name="UKNews">#10CAC9</color>
+    <color name="Politics">#F5A623</color>
+    <color name="Society">#FF7D50</color>
+    <color name="Football">#FC6644</color>
+    <color name="TelevisionRadio">#E75F40</color>
+    <color name="Environment">#E13A20</color>
+    <color name="Default">#B4BAC0</color>
+    <color name="Details">#B4BAC0</color>
+
+
+</resources>
